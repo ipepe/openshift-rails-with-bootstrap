@@ -1,3 +1,6 @@
+# WARNING! THIS PROJECT IS NO LONGER MAINTAINED!
+Warning! This project has known security vulnerabilities detected!
+
 # Rails 4 Sample App on OpenShift #
 Quickstart rails 4 application for openshift.
 
